@@ -1,30 +1,15 @@
 
-151.101.17.140 www.reddit.com
-151.101.17.140 about.reddit.com
-151.101.193.140 reddit.com
-151.101.1.140 reddit.com
+
+151.101.129.140 www.reddit.com
 151.101.129.140 reddit.com
-151.101.193.140 reddit.com
-151.101.65.140 reddit.com
-107.23.11.190 out.reddit.com
-34.197.39.110 alb.reddit.com
-54.164.247.13 alb.reddit.com
-54.172.97.225 origin.reddit.com
-54.172.97.225 rhs.reddit.com
-54.172.97.226 origin.reddit.com
-54.172.97.226 rhs.reddit.com
-54.172.97.227 origin.reddit.com
-54.172.97.227 rhs.reddit.com
-54.172.97.228 origin.reddit.com
-54.172.97.228 rhs.reddit.com
-54.172.97.229 origin.reddit.com
-54.172.97.229 rhs.reddit.com
-54.174.14.76 out.reddit.com
-54.208.254.144 out.reddit.com
-54.210.3.237 alb.reddit.com
-184.173.153.236 mail-p236.reddit.com
-52.205.61.79 mx-02.reddit.com
-54.172.97.247 mx-03.reddit.com
+151.101.129.140 np.reddit.com
+151.101.129.140 out.reddit.com
+151.101.129.140 alb.reddit.com
+151.101.129.140 origin.reddit.com
+151.101.129.140 rhs.reddit.com
+151.101.129.140 mailp236.reddit.com
+151.101.129.140 mx02.reddit.com
+151.101.129.140 mx03.reddit.com
 
 151.101.24.193 imgur.com
 151.101.24.193 www.imgur.com
@@ -44,46 +29,29 @@
 79.124.59.206 hitomi.la
 88.80.20.11 hitomi.la
 
-185.88.181.5 www.xvideos.com
-185.88.181.14 xvideos.com
-185.88.181.10 xvideos.com
-185.88.181.12 xvideos.com
-185.88.181.14 xvideos.com
 185.88.181.2 xvideos.com
-185.88.181.6 xvideos.com
-185.88.181.8 xvideos.com
-185.88.181.18 xvideos.com
-185.88.181.13 xvideos.com
-185.88.181.17 xvideos.com
-185.88.181.3 xvideos.com
-185.88.181.11 xvideos.com
-185.88.181.16 xvideos.com
-185.88.181.9 xvideos.com
-185.88.181.4 xvideos.com
-185.88.181.5 xvideos.com
-185.88.181.15 xvideos.com
-185.88.181.7 xvideos.com
+185.88.181.2 www.xvideos.com
 141.0.168.12 static.xvideos.com
-141.0.168.13 static.xvideos.com
-141.0.168.14 static.xvideos.com
-141.0.168.15 static.xvideos.com
-141.0.168.72 info.xvideos.com
-141.0.168.53 admin-copyright.xvideos.com
-208.111.151.94 download.im.8d00ad00.7360419.x.xvideos.com
-208.111.151.207 porn.im.4e2e4000.6878056.x.xvideos.com
-208.111.173.241 porn.im.52d06500.20431419.x.xvideos.com
-69.28.159.155 porn.im.4e2e4000.8690770.x.xvideos.com
-208.111.173.116 porn.im.4e2e4000.8399749.x.xvideos.com
-69.164.15.191 porn.im.4e2e4000.6820386.x.xvideos.com
-141.0.172.202 mail.xvideos.com
 208.117.57.109 o1.mailing.xvideos.com
+141.0.168.72 info.xvideos.com
+141.0.168.248 chatgroup-test-master.xvideos.com
+141.0.168.53 admincopyright.xvideos.com
+208.111.151.207 porn.im.4e2e4000.6878056.x.xvideos.com
+208.111.161.181 porn.im.4e2e4000.8399749.x.xvideos.com
+69.28.159.155 porn.im.4e2e4000.8690770.x.xvideos.com
+69.28.159.189 porn.im.4e2e4000.6820386.x.xvideos.com
+69.164.15.225 download.im.8d00ad00.7360419.x.xvideos.com
+208.111.151.65 porn.im.52d06500.20431419.x.xvideos.com
+141.0.172.202 mail.xvideos.com
 69.55.57.146 control.xvideos.com
 69.55.57.146 support.xvideos.com
+
 
 
 81.171.20.7 e-hentai.org
 81.171.17.131 e-hentai.org
 37.48.71.18 e-hentai.org
+
 
 
 104.16.164.50 openload.co
@@ -126,30 +94,15 @@
 104.24.254.11 forums.e-hentai.org
 104.24.255.11 forums.e-hentai.org
 
-31.192.120.36 api.pornhub.com
-31.192.120.40 store.pornhub.com
-31.192.120.36 pt.pornhub.com
-94.199.254.41 origin.pornhub.com
-104.16.94.65 feedback.pornhub.com
-31.192.120.36 fr.pornhub.com
-31.192.120.36 ww.pornhub.com
-67.22.32.162 services.pornhub.com
-31.192.120.36 rt.pornhub.com
-31.192.120.36 es.pornhub.com
+31.192.117.70 stage.pornhub.com
 31.192.120.36 mobile.pornhub.com
-31.192.120.36 it.pornhub.com
-31.192.120.36 jp.pornhub.com
-31.192.120.36 ru.pornhub.com
-31.192.120.36 www.pornhub.com
+31.192.120.40 store.pornhub.com
 31.192.120.40 blog.pornhub.com
-152.195.34.161 img.pornhub.com
-31.192.120.36 de.pornhub.com
-31.192.120.41 upload.pornhub.com
-31.192.120.49 cms.pornhub.com
 31.192.120.36 m.pornhub.com
-66.254.98.230 mail.pornhub.com
-31.192.120.36 nl.pornhub.com
-31.192.120.36 pl.pornhub.com
+216.18.168.28 ht.pornhub.com
+31.192.120.36 cz.pornhub.com
+31.192.120.36 pornhub.com
+31.192.120.36 www.pornhub.com
 
 66.6.44.4 blog.nhentai.net
 141.101.120.54 www.nhentai.net
@@ -235,3 +188,152 @@
 205.204.101.151 pop3.xiami.com
 205.204.101.152 smtp.xiami.com
 221.12.127.150 ns3.xiami.com
+
+66.6.32.22 blog.r18.com
+202.6.246.238 www.r18.com
+202.6.246.238 r18.com
+202.6.246.243 api.r18.com
+202.6.246.250 mail.r18.com
+203.209.147.44 my.r18.com
+
+208.100.27.32 chan.sankakucomplex.com
+208.100.47.72 www.sankakucomplex.com
+208.100.47.74 sankakucomplex.com
+104.27.205.93 sankakucomplex.com
+104.27.206.93 sankakucomplex.com
+104.27.206.93 c1.sankakucomplex.com
+104.27.205.93 c1.sankakucomplex.com
+104.27.205.93 c2.sankakucomplex.com
+104.27.206.93 c2.sankakucomplex.com
+104.27.205.93 c3.sankakucomplex.com
+104.27.206.93 c3.sankakucomplex.com
+104.27.205.93 i3.sankakucomplex.com
+104.27.206.93 i3.sankakucomplex.com
+104.27.205.93 c4.sankakucomplex.com
+104.27.206.93 c4.sankakucomplex.com
+208.100.27.32 idol.sankakucomplex.com
+208.100.27.32 chan.sankakucomplex.com
+104.27.205.93 cs.sankakucomplex.com
+104.27.206.93 cs.sankakucomplex.com
+104.27.205.93 www.sankakucomplex.com
+104.27.206.93 www.sankakucomplex.com
+208.100.24.246 c.sankakucomplex.com
+208.100.47.74 app1.sankakucomplex.com
+208.100.47.74 main.sankakucomplex.com
+208.100.47.78 img2.sankakucomplex.com
+208.100.47.78 img.sankakucomplex.com
+208.100.47.78 images.sankakucomplex.com
+208.100.47.75 extra.sankakucomplex.com
+208.100.47.75 data.sankakucomplex.com
+
+207.54.151.41 anime.jlist.com
+207.54.151.41 moe.jlist.com
+207.54.151.41 pocky.jlist.com
+207.54.151.25 assets.jlist.com
+206.75.90.26 contact2.jlist.com
+207.54.151.43 help.jlist.com
+207.54.151.43 images.jlist.com
+104.36.49.118 news.jlist.com
+104.36.49.169 mag1932.jlist.com
+104.36.49.103 sendy.jlist.com
+104.36.49.78 support.jlist.com
+206.75.90.80 update1.jlist.com
+206.75.90.81 update2.jlist.com
+206.75.90.40 contact.jlist.com
+104.36.50.65 jlist.com
+104.36.50.65 blog.jlist.com
+104.36.50.65 m.jlist.com
+104.36.50.65 help.jlist.com
+104.36.50.65 feeds.jlist.com
+104.36.50.65 www.jlist.com
+104.36.50.65 ftp.jlist.com
+207.54.151.21 content.jlist.com
+207.54.151.24 downloads.jlist.com
+207.54.151.26 old.jlist.com
+
+104.28.21.226 tsumino.com
+104.28.21.226 www.tsumino.com
+104.28.20.226 www.tsumino.com
+
+104.20.62.168 hentai2read.com
+104.20.61.168 m.hentai2read.com
+104.20.61.168 forum.hentai2read.com
+104.20.61.168 www.hentai2read.com
+209.133.222.18 lilith.hentai2read.com
+69.46.2.161 satera.hentai2read.com
+209.133.209.139 feilen.hentai2read.com
+162.220.60.244 stella.hentai2read.com
+
+62.210.251.165 forum.hentaihaven.org
+68.65.122.10 mail.hentaihaven.org
+163.172.14.154 srv.hentaihaven.org
+192.124.249.13 hentaihaven.org
+192.124.249.13 www.hentaihaven.org
+
+104.28.9.113 hentai-cosplay.com
+104.28.8.113 ja.hentai-cosplay.com
+104.28.8.113 static.hentai-cosplay.com
+104.28.8.113 id.hentai-cosplay.com
+104.28.8.113 de.hentai-cosplay.com
+104.28.8.113 th.hentai-cosplay.com
+104.28.8.113 zh.hentai-cosplay.com
+104.28.8.113 vi.hentai-cosplay.com
+104.28.8.113 mail.hentai-cosplay.com
+104.28.8.113 ko.hentai-cosplay.com
+104.28.8.113 fr.hentai-cosplay.com
+104.28.8.113 es.hentai-cosplay.com
+104.28.8.113 ru.hentai-cosplay.com
+
+104.27.168.72 porn-image-xxx.com
+104.27.168.72 static2.porn-image-xxx.com
+104.27.168.72 static3.porn-image-xxx.com
+104.27.168.72 ja.porn-image-xxx.com
+104.27.168.72 static.pornimage-xxx.com
+104.27.168.72 id.porn-image-xxx.com
+104.27.168.72 de.porn-image-xxx.com
+104.27.168.72 th.porn-image-xxx.com
+104.27.168.72 zh.porn-image-xxx.com
+104.27.168.72 vi.porn-image-xxx.com
+104.27.168.72 mail.porn-image-xxx.com
+104.27.168.72 ko.porn-image-xxx.com
+104.27.168.72 fr.porn-image-xxx.com
+104.27.168.72 es.porn-image-xxx.com
+104.27.168.72 ru.porn-image-xxx.com
+
+144.217.254.40 144.217.254.40 
+
+104.31.15.163 spankbang.com
+104.31.15.163 la.spankbang.com
+104.31.15.163 static.spankbang.com
+104.31.15.163 mstatic.spankbang.com
+104.31.15.163 id.spankbang.com
+104.31.15.163 de.spankbang.com
+104.31.15.163 se.spankbang.com
+104.31.15.163 th.spankbang.com
+104.31.15.163 nl.spankbang.com
+104.31.15.163 pl.spankbang.com
+104.31.15.163 m.spankbang.com
+104.31.15.163 in.spankbang.com
+104.31.15.163 jp.spankbang.com
+104.31.15.163 br.spankbang.com
+104.31.15.163 fr.spankbang.com
+104.31.15.163 tr.spankbang.com
+104.31.15.163 es.spankbang.com
+104.31.15.163 ms.spankbang.com
+104.31.15.163 it.spankbang.com
+104.31.15.163 pt.spankbang.com
+104.31.15.163 ru.spankbang.com
+104.31.15.163 www.spankbang.com
+192.99.63.181 cdnthumb1.spankbang.com
+192.99.63.182 cdnthumb2.spankbang.com
+192.95.33.192 cdnthumb3.spankbang.com
+144.217.77.173 cdnthumb4.spankbang.com
+144.217.77.175 cdnthumb5.spankbang.com
+
+104.28.25.66 olavids.site
+
+104.18.55.65 mangadex.com
+
+104.27.73.17 javmost.com
+104.28.18.105 www3.javmost.com
+104.28.18.105 www5.javmost.com
